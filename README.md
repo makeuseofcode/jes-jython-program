@@ -5,7 +5,7 @@ It adds the sum of 2 numbers, and also calculates the average of a list of numbe
 ## Prerequisites 
 
 * Make sure you have JES installed on your computer.
-* You can install JES from [here](code.google.com/archive/p/mediacomp-jes/downloads). 
+* You can install JES from [here](https://code.google.com/archive/p/mediacomp-jes/downloads). 
 
 ## To Run
 
