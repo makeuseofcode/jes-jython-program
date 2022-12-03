@@ -1,0 +1,16 @@
+def addTwoNumbers(a, b):
+   print(a + b)
+  
+def main():
+   numbers = [1,2,3,4,5,6]
+   average = calculateAverage(numbers)
+   print("Average of  " + str(numbers) + "  is: " + str(average))
+   
+def calculateAverage(numbers):
+  sum = 0.0
+  for num in numbers:
+    sum += num
+  return sum/len(numbers)
+  
+  
+  
